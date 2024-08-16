@@ -73,7 +73,7 @@ if __name__ == "__main__":
     image_path = "test_images/sunflower.jpg"
 
     # 사전 학습된 모델 파일의 경로를 지정
-    model_path = "model/myFlower_optimized.keras"
+    model_path = "model/myFlower2.keras"
 
     # 예측할 클래스 이름을 리스트로 정의 (모델이 학습한 클래스 순서에 맞게 나열)
     class_names = ['daisy', 'dandelion', 'roses', 'sunflowers', 'tulips']
