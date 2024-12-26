@@ -81,6 +81,6 @@ python flower_model2.py
 - 학습된 모델을 사용하여 꽃 이름을 예측합니다.
 
 ```bash
-python predict_flower.py
+python flower_predict.py
 ```
 
