@@ -73,7 +73,8 @@ pip install -r requirements.txt
 - 아래 명령어를 실행하여 모델을 학습시킵니다.
 
 ```bash
-python train_model.py
+python flower_model1.py
+python flower_model2.py
 ```
 
 ### 5. 꽃 이름 예측
